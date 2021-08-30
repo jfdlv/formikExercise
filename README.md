@@ -1,3 +1,5 @@
 # formikExercise
 
-Simple project that validates an email and password field using formik
+Simple React project that validates an email and password field using formik
+
+Run `npm start` on command line to run it.
